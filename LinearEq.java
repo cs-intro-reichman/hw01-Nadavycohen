@@ -9,8 +9,10 @@ public class LinearEq {
 
 		{
 
-		System.out.println(a + " * x + " + b + " = " + c);
+		System.out.println(a + " * x + " + b + " = " + c);{
 			System.out.println("x = " + x);
+		
+		}
 }
 }
 }
